@@ -47,7 +47,7 @@ Instance-based Feature Pyramid for Visual Object Tracking. TCSVT, 2020
 <img src="/images/cf_mot.jpg" width="800"/>
 </td>
 <td style="border-collapse: collapse; border: none;">
-Scale adaptive image cropping for UAV object detection. Neurocomputing, 2019.
+Jointly detecting and multiple people tracking by semantic and scene information. Neurocomputing, 2019.
 <br>
 <b>Zhixiong Pi</b>, Huai Qin, Changxin Gao, Nong Sang*. 
 <br>
