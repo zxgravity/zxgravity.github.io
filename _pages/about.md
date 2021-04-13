@@ -2,6 +2,8 @@
 permalink: /
 ---
 
+# About Me
+
 I am a 4th year PhD candidate at Huazhong University of Science and Technology, China. My advisor is Prof. Nong Sang. Before that, I obtained my B.E. degree in College of Electrical and Information Engineering, Hunan University in 2016.
 
 I am interested in computer vision, deep learning, and machine learning. More specifically,
