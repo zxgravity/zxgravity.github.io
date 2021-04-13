@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  about:
+    output: true
+    permalink: /_pages/
 
 
 # Defaults
