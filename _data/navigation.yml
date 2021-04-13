@@ -3,8 +3,8 @@ main:
   - title: "About Me"
     url: /
   
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "Blog Posts"
+    url: /year-archive/
     
   #- title: "Publications"
   #  url: /publications/
